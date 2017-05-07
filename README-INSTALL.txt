@@ -1,0 +1,1 @@
+To install, put the contents of the OPTION 1 or OPTION 2 folders into your World of Tanks install directory (C:\Games\World_Of_Tanks, by default).
